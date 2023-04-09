@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 ggml-sys = { path = "../ggml-sys" }
+ggml-rs = { path = "../ggml-rs" }
